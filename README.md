@@ -14,7 +14,4 @@
 </div> 
 
 
-
-[![NebularW's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NebularW&theme=tokyo-night)](https://github.com/NebularW/github-readme-activity-graph)
-
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NebularW&theme=xcode" /> </div>
