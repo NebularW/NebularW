@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=30A8DC&center=true&width=435&lines=Hello%2C+World" alt="Typing SVG" /></a> </h1>
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@snake/github-contribution-grid-snake-dark.svg" /></div>
+<div align="center"><img src="http://img.nebular.site/md/github-contribution-grid-snake-dark.svg" /></div>
 
 
 <!-- GitHub 奖杯🏆 -->
